@@ -15,3 +15,6 @@ things we need
     - PyCharm or VSCode
     for PyCharm, go to : https://www.jetbrains.com/pycharm/
     for VSCode, just download the Python Extension by Microsoft!
+
+learning path: 
+    https://orgpad.info/s/sbwXdJ9N5wc
