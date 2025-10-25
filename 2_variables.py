@@ -15,7 +15,10 @@
 #String -----------------------------------------------------------------------------------------
 # a string is a series of text
 print("1.String variable implementation")
-first_name = "Arman"; 
+first_name = "Arman" 
+
+word = "Human"
+print(word)
 
 # this can e double or single qoutes but use "" always for string!
 # if i use the variable without the "" in the print funciton then that will print the variable value 
@@ -30,7 +33,7 @@ print(first_name)
 print(f"My First Name is {first_name}")
 
 food = "cake"
-print(f"i like {food}")
+# print(f"i like {food}")
 
 email = "armanhossen"
 gcom = ".gmail.com"
@@ -41,6 +44,8 @@ print(f"My Email is not {email+ycom}")
 print("-----------------------------------------------------\n")
 
 
+print(f"This is my gmail {email+gcom}")
+print("\n")
 
 #Integer -----------------------------------------------------------------------------------------
 # integer is number without any decimal part
