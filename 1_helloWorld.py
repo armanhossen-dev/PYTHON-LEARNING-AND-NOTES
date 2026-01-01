@@ -1,4 +1,5 @@
 print("Hello World") #this is a comment
+print("Sit Back Enjoy The show!")
 # to print in python use print() no ';' at end of the statement, 
 
 # by adding a second print statement, we make a new line
